@@ -1,7 +1,7 @@
 
 {
     "name": "keyframely",
-    "version":"0.0.1",
+    "version":"0.0.2",
     "description": "A rewrite of KuraFire's runloop plugin designed to work without jQuery",
     "keywords": [ 
         "runloop"
